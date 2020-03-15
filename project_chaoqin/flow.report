@@ -1,0 +1,11 @@
+(PQ bus 0) P:0.3000, Q:0.0000, V:1.0018+j(0.0000)
+(PQ bus 1) P:-0.2000, Q:0.0000, V:0.9994+j(0.0000)
+(PQ bus 2) P:0.1500, Q:0.0000, V:1.0027+j(0.0000)
+(Slack bus 3) P:-0.2489, Q:0.0000, V:1.0000+j(0.0000)
+(bus 0 -> bus 1) p:0.1186, q:-0.0000, power loss:0.0003(0.24%) 
+(bus 2 -> bus 1) p:0.0820, q:0.0000, power loss:0.0003(0.33%) 
+(bus 0 -> bus 3) p:0.1814, q:-0.0000, power loss:0.0003(0.18%) 
+(bus 2 -> bus 3) p:0.0680, q:-0.0000, power loss:0.0002(0.27%) 
+Total iterations count: 3
+Time elapsed: 9.146928787231445 ms
+src: /home/student/autumn-2019-project-chaoqin-li1123/project_chaoqin/pq.txt
