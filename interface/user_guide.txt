@@ -1,8 +1,0 @@
-Welcome to flow_computation 0.0.0!
-Click the "source file" button to browse the local the computer and find the parameter file.("pq.txt", "pq_pv.txt").
-The image and report will be displayed on window.
-Image(power_network.jpg) and report(flow.report) are also saved in the same directory as the script.
-Check box "parallelism?" decide whether to use multiprocess to do the computation. 
-If you want to switch file, just click the "source file" button and select another file.
-Click the "close" button to shut down the window and terminate the process.
-
